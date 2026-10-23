@@ -1,3 +1,0 @@
-git config, init, add, commit, push or pull
-git branching --> Creating, deleting, renaming ( Merging vs Rebase )
-git stashing..
