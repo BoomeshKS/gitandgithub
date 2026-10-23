@@ -1,3 +1,2 @@
 Hello users..!
-Local --> Master
 Global Repo --> Main
